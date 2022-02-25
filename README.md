@@ -22,3 +22,5 @@
 ```
 pip install texthero
 ```
+
+[Датасет отзывов в Steam (2GB)](https://www.kaggle.com/andrewmvd/steam-reviews)
