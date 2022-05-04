@@ -31,7 +31,7 @@ pip install texthero
 
 Ниже ссылка на итоговую презентацияю
 
-[Презентация] (https://docs.google.com/presentation/d/1GRabwK1p4nIEQ0hPcji1xOQ2yLrTZcST1iU4Se6FW1g/edit?usp=sharing)
+[Презентация](https://docs.google.com/presentation/d/1GRabwK1p4nIEQ0hPcji1xOQ2yLrTZcST1iU4Se6FW1g/edit?usp=sharing)
 
 IPython ноутбуки:
 
